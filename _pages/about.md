@@ -18,7 +18,7 @@ Prior to that, I complete my M.Sc of Computer Science at Bar-Ilan university in 
 
 
 
-#### News: 
+**News:** 
 
 - Paper accepted at Findings of ACL 2021
 - Paper accepted at NAACL 2021
