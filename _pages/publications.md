@@ -15,6 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+# 2021
+
 **SciCo: Hierarchical Cross-Document Coreference for Scientific Concepts**  
 _<ins>Arie Cattan</ins>, Sophie Johnson, Daniel Weld, Ido Dagan, Iz Beltagy, Doug Downey, and Tom Hope_  
 [Paper](https://arxiv.org/pdf/2104.08809.pdf) &nbsp; [Website](http://scico.apps.allenai.org/) &nbsp; [Code](https://github.com/ariecattan/SciCo)
@@ -46,6 +48,9 @@ _James Ravenscroft, <ins>Arie Cattan</ins>, Amanda Clare, Ido Dagan, Maria Liaka
 EACL 2021   
 [Paper](https://arxiv.org/pdf/2101.12637.pdf) &nbsp; [Code](https://github.com/ravenscroftj/cdcrtool)
 
+
+
+# 2020
 
 **CoRefi: A Crowd Sourcing Suite for Coreference Annotation**  
 _Aaron Bornstein, <ins>Arie Cattan</ins> and Ido Dagan_  
