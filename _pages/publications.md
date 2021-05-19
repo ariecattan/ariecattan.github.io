@@ -1,4 +1,19 @@
+---
+layout: archive
+title: " "
+permalink: /publications/
+author_profile: true
+---
 
+<!---  {% if author.googlescholar %}
+  <u><a href="{{author.googlescholar}}">My Google Scholar profile</a> will </u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %} -->
 
 **SciCo: Hierarchical Cross-Document Coreference for Scientific Concepts**  
 _<ins>Arie Cattan</ins>, Sophie Johnson, Daniel Weld, Ido Dagan, Iz Beltagy, Doug Downey, and Tom Hope_  
@@ -14,7 +29,7 @@ _Avi Caciularu, Arman Cohan, Iz Beltagy, Matthew E. Peters, <ins>Arie Cattan</in
 
 
 **Cross-document Coreference Resolution over Predicted Mentions**   
-_<ins>Arie Cattan</ins>, Alon Eirew, Gabriel Stanovsky, Mandar Joshi and Ido Dagan_   
+<ins>Arie Cattan</ins>, Alon Eirew, Gabriel Stanovsky, Mandar Joshi and Ido Dagan_   
 Findings of ACL 2021   
 
 
@@ -37,4 +52,9 @@ _Aaron Bornstein, <ins>Arie Cattan</ins> and Ido Dagan_
 EMNLP 2020 (System demonstration)  
 [Paper](https://arxiv.org/pdf/2010.02588.pdf) &nbsp; [Code](https://github.com/aribornstein/corefi)
 &nbsp; [Demo](https://aribornstein.github.io/corefidemo/) &nbsp; [Video Tour](https://www.youtube.com/watch?v=DPx36Ps1CAk)
+ 
+ 
+**Streamlining Cross-document Coreference Resolution: Evaluation and Modeling**  
+_<ins>Arie Cattan</ins>, Alon Eirew, Gabriel Stanovsky, Mandar Joshi and Ido Dagan_. 2020  
+[Paper](https://arxiv.org/pdf/2009.11032.pdf)
  
