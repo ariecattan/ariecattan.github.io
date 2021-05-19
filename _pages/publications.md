@@ -48,7 +48,7 @@ EACL 2021
 
 
 **CoRefi: A Crowd Sourcing Suite for Coreference Annotation**  
-_Aaron Bornstein, <ins>Arie Cattan</ins> and Ido Dagan_
+_Aaron Bornstein, <ins>Arie Cattan</ins> and Ido Dagan_  
 EMNLP 2020 (System demonstration)  
 [Paper](https://arxiv.org/pdf/2010.02588.pdf) &nbsp; [Code](https://github.com/aribornstein/corefi)
 &nbsp; [Demo](https://aribornstein.github.io/corefidemo/) &nbsp; [Video Tour](https://www.youtube.com/watch?v=DPx36Ps1CAk)
