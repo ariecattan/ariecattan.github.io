@@ -25,13 +25,18 @@ _<ins>Arie Cattan</ins>, Sophie Johnson, Daniel Weld, Ido Dagan, Iz Beltagy, Dou
 
 
 **Cross-document Language Modeling**  
-_Avi Caciularu, Arman Cohan, Iz Beltagy, Matthew E. Peters, <ins>Arie Cattan</ins> and Ido Dagan_  
+Avi Caciularu, Arman Cohan, Iz Beltagy, Matthew E. Peters, <ins>Arie Cattan</ins> and Ido Dagan   
 [Paper](https://arxiv.org/pdf/2101.00406.pdf) &nbsp; [Code](https://github.com/aviclu/CD-LM)
 
 
 
+**Realistic Evaluation Principles for Cross-document Coreference Resolution**   
+<ins>Arie Cattan</ins>, Alon Eirew, Gabriel Stanovsky, Mandar Joshi and Ido Dagan    
+*SEM 2021
+  
+
 **Cross-document Coreference Resolution over Predicted Mentions**   
-<ins>Arie Cattan</ins>, Alon Eirew, Gabriel Stanovsky, Mandar Joshi and Ido Dagan_   
+<ins>Arie Cattan</ins>, Alon Eirew, Gabriel Stanovsky, Mandar Joshi and Ido Dagan      
 Findings of ACL 2021   
 
 
