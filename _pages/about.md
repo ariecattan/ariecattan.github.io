@@ -20,7 +20,7 @@ Prior to that, I complete my M.Sc of Computer Science at Bar-Ilan university in 
 
 **News:** 
 
-- May 2021: Paper accpeted at *SEM 2021
+- May 2021: Paper accepted at *SEM 2021
 - May 2021: Paper accepted at Findings of ACL 2021
 - April 2021: Upload a new paper: [SciCo: Hierarchical Cross-Document Coreference for Scientific Concepts](https://arxiv.org/abs/2104.08809) 
 - March 2021: Paper accepted at NAACL 2021
