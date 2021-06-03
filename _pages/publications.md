@@ -39,7 +39,7 @@ _<ins>Arie Cattan</ins>, Alon Eirew, Gabriel Stanovsky, Mandar Joshi and Ido Dag
 **Cross-document Coreference Resolution over Predicted Mentions**   
 _<ins>Arie Cattan</ins>, Alon Eirew, Gabriel Stanovsky, Mandar Joshi and Ido Dagan_      
 Findings of ACL 2021   
-[Code](https://github.com/ariecattan/coref)
+[Paper](https://arxiv.org/pdf/2106.01210.pdf) &nbsp; [Code](https://github.com/ariecattan/coref)
 
 
 **WEC: Deriving a Large-scale Cross-document Event Coreference dataset from Wikipedia**   
