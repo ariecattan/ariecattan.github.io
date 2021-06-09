@@ -33,7 +33,7 @@ _Avi Caciularu, Arman Cohan, Iz Beltagy, Matthew E. Peters, <ins>Arie Cattan</in
 **Realistic Evaluation Principles for Cross-document Coreference Resolution**   
 _<ins>Arie Cattan</ins>, Alon Eirew, Gabriel Stanovsky, Mandar Joshi and Ido Dagan_    
 *SEM 2021  
-[Code](https://github.com/ariecattan/coref)
+[Paper](https://arxiv.org/pdf/2106.04192.pdf) &nbsp; [Code](https://github.com/ariecattan/coref)
 
 
 **Cross-document Coreference Resolution over Predicted Mentions**   
