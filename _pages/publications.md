@@ -33,13 +33,13 @@ _Avi Caciularu, Arman Cohan, Iz Beltagy, Matthew E. Peters, <ins>Arie Cattan</in
 **Realistic Evaluation Principles for Cross-document Coreference Resolution**   
 _<ins>Arie Cattan</ins>, Alon Eirew, Gabriel Stanovsky, Mandar Joshi and Ido Dagan_    
 *SEM 2021  
-[Paper](https://arxiv.org/pdf/2106.04192.pdf) &nbsp; [Code](https://github.com/ariecattan/coref) &nbsp; [Poster](~/files/*SEM%202021%20-%20coref%20eval.pdf)
+[Paper](https://arxiv.org/pdf/2106.04192.pdf) &nbsp; [Code](https://github.com/ariecattan/coref) &nbsp; [Poster](https://github.com/ariecattan/ariecattan.github.io/blob/master/files/*SEM%202021%20-%20coref%20eval.pdf)
 
 
 **Cross-document Coreference Resolution over Predicted Mentions**   
 _<ins>Arie Cattan</ins>, Alon Eirew, Gabriel Stanovsky, Mandar Joshi and Ido Dagan_      
 Findings of ACL 2021   
-[Paper](https://arxiv.org/pdf/2106.01210.pdf) &nbsp; [Code](https://github.com/ariecattan/coref) &nbsp; [Slides](~/files/ACL_2021_findings_slides.pdf)
+[Paper](https://arxiv.org/pdf/2106.01210.pdf) &nbsp; [Code](https://github.com/ariecattan/coref) &nbsp; [Slides](https://github.com/ariecattan/ariecattan.github.io/blob/master/files/ACL_2021_findings_slides.pdf)
 
 
 **WEC: Deriving a Large-scale Cross-document Event Coreference dataset from Wikipedia**   
