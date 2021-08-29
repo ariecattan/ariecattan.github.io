@@ -20,6 +20,8 @@ Prior to that, I complete my M.Sc of Computer Science at Bar-Ilan university in 
 
 **News:** 
 
+- August 2021: One paper accepted at Findings of EMNLP and one demo paper accepted to EMNLP! 
+- August 2021: Our [SciCo paper](https://openreview.net/forum?id=OFLbgUP04nC) was accepted at AKBC 2021!
 - May 2021: [Paper](https://aclanthology.org/2021.starsem-1.13.pdf) accepted at *SEM 2021
 - May 2021: [Paper](https://aclanthology.org/2021.findings-acl.453.pdf) accepted at Findings of ACL 2021
 - April 2021: Upload a new paper: [SciCo: Hierarchical Cross-Document Coreference for Scientific Concepts](https://arxiv.org/abs/2104.08809) following my internship at AI2. 
