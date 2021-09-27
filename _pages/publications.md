@@ -20,6 +20,7 @@ author_profile: true
 **iFacetSum: Coreference-based Interactive Faceted Summarization for Multi-Document Exploration**   
 _Eran Hirsch, Alon Eirew, Ori Shapira, Avi Caciularu, <ins>Arie Cattan</ins>, Ori Ernst, Ramakanth Pasunuru, Hadar Ronen, Mohit Bansal and Ido Dagan_    
 EMNLP 2021 (System demonstration)  
+[Paper](https://arxiv.org/pdf/2109.11621.pdf) &nbsp; [Code](https://github.com/BIU-NLP/iFACETSUM) &nbsp; [Demo](https://biu-nlp.github.io/iFACETSUM/WebApp/client/) 
 
 **SciCo: Hierarchical Cross-Document Coreference for Scientific Concepts**  
 _<ins>Arie Cattan</ins>, Sophie Johnson, Daniel Weld, Ido Dagan, Iz Beltagy, Doug Downey, and Tom Hope_   
