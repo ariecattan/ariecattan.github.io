@@ -24,7 +24,7 @@ EMNLP 2021 (System demonstration)
 
 **SciCo: Hierarchical Cross-Document Coreference for Scientific Concepts**  
 _<ins>Arie Cattan</ins>, Sophie Johnson, Daniel Weld, Ido Dagan, Iz Beltagy, Doug Downey, and Tom Hope_   
-AKBC 2021.  
+AKBC 2021 <font color=purple>🎉 Outstanding Paper Award!</font>  
 [Paper](https://arxiv.org/pdf/2104.08809.pdf) &nbsp; [Website](http://scico.apps.allenai.org/) &nbsp; [Code](https://github.com/ariecattan/SciCo)
 &nbsp; [Annotation Interface](https://github.com/ariecattan/CoRefi)
 
