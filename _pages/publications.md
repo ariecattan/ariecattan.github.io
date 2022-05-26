@@ -17,7 +17,7 @@ author_profile: true
 
 # 2022
 
-**LINGMESS: Linguistically Informed Multi Expert Scorers for Coreference Resolution**  
+**LingGMESS: Linguistically Informed Multi Expert Scorers for Coreference Resolution**  
 _Shon Otmazgin, <ins>Arie Cattan</ins> and Yoav Goldberg_   
 [Paper](https://arxiv.org/pdf/2205.12644.pdf) 
 
