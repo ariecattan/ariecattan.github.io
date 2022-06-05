@@ -17,7 +17,7 @@ author_profile: true
 
 # 2022
 
-**LingGMESS: Linguistically Informed Multi Expert Scorers for Coreference Resolution**  
+**LingMess: Linguistically Informed Multi Expert Scorers for Coreference Resolution**  
 _Shon Otmazgin, <ins>Arie Cattan</ins> and Yoav Goldberg_   
 [Paper](https://arxiv.org/pdf/2205.12644.pdf) 
 
@@ -36,7 +36,7 @@ AKBC 2021 <font color=purple>🎉<b>Outstanding Paper Award! 🎉</b></font>
 
 
 
-**Cross-document Language Modeling**  
+**CDLM: Cross-document Language Modeling**  
 _Avi Caciularu, Arman Cohan, Iz Beltagy, Matthew E. Peters, <ins>Arie Cattan</ins> and Ido Dagan_   
 Findings of EMNLP 2021   
 [Paper](https://arxiv.org/pdf/2101.00406.pdf) &nbsp; [Code](https://github.com/aviclu/CD-LM)  
