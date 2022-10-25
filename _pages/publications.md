@@ -23,7 +23,7 @@ AACL 2022 (system demonstration)
 [Paper](https://arxiv.org/pdf/2209.04280.pdf) &nbsp; [Code](https://github.com/shon-otmazgin/fastcoref)
 
 **How "Multi" is Multi-Document Summarization?**     
-_Ruben Wolhandler, Arie Cattan, Ori Ernst and Ido Dagan_  
+_*Ruben Wolhandler, *<ins>Arie Cattan</ins>, Ori Ernst and Ido Dagan_  
 EMNLP 2022.    
 [Paper](https://arxiv.org/pdf/2210.12688v1.pdf) &nbsp; [Code](https://github.com/ariecattan/multi_mds)
 
