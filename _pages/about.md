@@ -19,6 +19,7 @@ Prior to that, I complete my M.Sc of Computer Science at Bar-Ilan university in 
 
 
 **News:** 
+- Octobre 2022: One paper accepted at EMNLP 2022 and one accepted at AACL 2022!
 - Octobre 2021: Won an **outstanding paper award** at AKBC! 🎉🎉  
 - August 2021: One paper accepted at Findings of EMNLP and one demo paper accepted to EMNLP! 
 - August 2021: Our [SciCo paper](https://openreview.net/forum?id=OFLbgUP04nC) was accepted at AKBC 2021!

@@ -17,9 +17,24 @@ author_profile: true
 
 # 2022
 
+**F-coref: Fast, Accurate and Easy to Use Coreference Resolution**    
+_Shon Otmazgin, <ins>Arie Cattan</ins> and Yoav Goldberg_   
+AACL 2022 (system demonstration)    
+[Paper](https://arxiv.org/pdf/2209.04280.pdf) &nbsp; [Code](https://github.com/shon-otmazgin/fastcoref)
+
+**How "Multi" is Multi-Document Summarization?**     
+_Ruben Wolhandler, Arie Cattan, Ori Ernst and Ido Dagan_  
+EMNLP 2022.    
+[Paper](https://arxiv.org/pdf/2210.12688v1.pdf) &nbsp; [Code](https://github.com/ariecattan/multi_mds)
+
 **LingMess: Linguistically Informed Multi Expert Scorers for Coreference Resolution**  
 _Shon Otmazgin, <ins>Arie Cattan</ins> and Yoav Goldberg_   
-[Paper](https://arxiv.org/pdf/2205.12644.pdf) 
+[Paper](https://arxiv.org/pdf/2205.12644.pdf) &nbsp; [Code](https://github.com/shon-otmazgin/lingmess-coref)
+
+**Infrastructure for Rapid Open Knowledge Network Development**  
+_Michael J. Cafarella, Michael Anderson, Iz Beltagy, <ins>Arie Cattan</ins>, Sarah E. Chasins, Ido Dagan, Doug Downey, Oren Etzioni, Sergey Feldman, Tian Gao, Tom Hope, Kexin Huang, Sophie Johnson, Daniel King, Kyle Lo, Yuze Lou, Matthew Shapiro, Dinghao Shen, Shivashankar Subramanian, Lucy Lu Wang, Yuning Wang, Yitong Wang, Daniel S. Weld, Jenny M. Vo-Phamhi, Anna Zeng, Jiayun Zou_ 
+AI Magazine 2022.   
+[Paper](https://ojs.aaai.org/index.php/aimagazine/article/view/19126)
 
 # 2021
 
