@@ -32,7 +32,7 @@ _Shon Otmazgin, <ins>Arie Cattan</ins> and Yoav Goldberg_
 [Paper](https://arxiv.org/pdf/2205.12644.pdf) &nbsp; [Code](https://github.com/shon-otmazgin/lingmess-coref)
 
 **Infrastructure for Rapid Open Knowledge Network Development**  
-_Michael J. Cafarella, Michael Anderson, Iz Beltagy, <ins>Arie Cattan</ins>, Sarah E. Chasins, Ido Dagan, Doug Downey, Oren Etzioni, Sergey Feldman, Tian Gao, Tom Hope, Kexin Huang, Sophie Johnson, Daniel King, Kyle Lo, Yuze Lou, Matthew Shapiro, Dinghao Shen, Shivashankar Subramanian, Lucy Lu Wang, Yuning Wang, Yitong Wang, Daniel S. Weld, Jenny M. Vo-Phamhi, Anna Zeng, Jiayun Zou_ 
+_Michael J. Cafarella, Michael Anderson, Iz Beltagy, <ins>Arie Cattan</ins>, Sarah E. Chasins, Ido Dagan, Doug Downey, Oren Etzioni, Sergey Feldman, Tian Gao, Tom Hope, Kexin Huang, Sophie Johnson, Daniel King, Kyle Lo, Yuze Lou, Matthew Shapiro, Dinghao Shen, Shivashankar Subramanian, Lucy Lu Wang, Yuning Wang, Yitong Wang, Daniel S. Weld, Jenny M. Vo-Phamhi, Anna Zeng, Jiayun Zou_   
 AI Magazine 2022.   
 [Paper](https://ojs.aaai.org/index.php/aimagazine/article/view/19126)
 
