@@ -15,6 +15,18 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+# 2023 
+
+**Evaluating and Improving the Coreference Capabilities of Machine Translation Models**  
+_Asaf Yehudai, <ins>Arie Cattan</ins>, Omri Abend and Gabriel Stanovsky_   
+EACL 2023.    
+[Paper](https://arxiv.org/pdf/2302.08464.pdf) &nbsp; [Code](https://github.com/AsafYehudai/MT-coref)
+
+**LingMess: Linguistically Informed Multi Expert Scorers for Coreference Resolution**  
+_Shon Otmazgin, <ins>Arie Cattan</ins> and Yoav Goldberg_   
+EACL 2023.   
+[Paper](https://arxiv.org/pdf/2205.12644.pdf) &nbsp; [Code](https://github.com/shon-otmazgin/lingmess-coref)
+
 # 2022
 
 **F-coref: Fast, Accurate and Easy to Use Coreference Resolution**    
@@ -26,10 +38,6 @@ AACL 2022 (system demonstration)
 _*Ruben Wolhandler, *<ins>Arie Cattan</ins>, Ori Ernst and Ido Dagan_  
 EMNLP 2022.    
 [Paper](https://arxiv.org/pdf/2210.12688v1.pdf) &nbsp; [Code](https://github.com/ariecattan/multi_mds)
-
-**LingMess: Linguistically Informed Multi Expert Scorers for Coreference Resolution**  
-_Shon Otmazgin, <ins>Arie Cattan</ins> and Yoav Goldberg_   
-[Paper](https://arxiv.org/pdf/2205.12644.pdf) &nbsp; [Code](https://github.com/shon-otmazgin/lingmess-coref)
 
 **Infrastructure for Rapid Open Knowledge Network Development**  
 _Michael J. Cafarella, Michael Anderson, Iz Beltagy, <ins>Arie Cattan</ins>, Sarah E. Chasins, Ido Dagan, Doug Downey, Oren Etzioni, Sergey Feldman, Tian Gao, Tom Hope, Kexin Huang, Sophie Johnson, Daniel King, Kyle Lo, Yuze Lou, Matthew Shapiro, Dinghao Shen, Shivashankar Subramanian, Lucy Lu Wang, Yuning Wang, Yitong Wang, Daniel S. Weld, Jenny M. Vo-Phamhi, Anna Zeng, Jiayun Zou_   
