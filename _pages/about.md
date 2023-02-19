@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student in Natural Language Pocessing at the [NLP lab](https://biu-nlp.github.io/) of Bar Ilan University, supervised by Prof. [Ido Dagan](https://u.cs.biu.ac.il/~dagan/). 
+I am a third-year PhD student in Natural Language Pocessing at the [NLP lab](https://biu-nlp.github.io/) of Bar Ilan University, supervised by Prof. [Ido Dagan](https://u.cs.biu.ac.il/~dagan/). 
 My research focuses on identifying relations across multiple documents.
 In Fall 2020, I interned at AI2 in the Semantic Scholar group, mentored by [Tom Hope](https://tomhoper.github.io/) and [Doug Downey](https://users.cs.northwestern.edu/~ddowney/). 
 
