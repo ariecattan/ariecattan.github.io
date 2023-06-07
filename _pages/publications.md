@@ -17,6 +17,11 @@ author_profile: true
 
 # 2023 
 
+**From Key Points to Key Point Hierarchy: Structured and Expressive Opinion Summarization**  
+_*<ins>Arie Cattan</ins>, *Lilach Eden, Yoav Kantor and Roy Bar-Haim_ 
+ACL 2023.   
+[Paper](https://arxiv.org/pdf/2306.03853.pdf) &nbsp; [Code](https://github.com/IBM/kpa-hierarchy) 
+
 **Evaluating and Improving the Coreference Capabilities of Machine Translation Models**  
 _Asaf Yehudai, <ins>Arie Cattan</ins>, Omri Abend and Gabriel Stanovsky_   
 EACL 2023.    

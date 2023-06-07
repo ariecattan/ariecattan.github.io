@@ -19,6 +19,7 @@ Prior to that, I complete my M.Sc of Computer Science at Bar-Ilan university in 
 
 
 **News:** 
+- May 2023: One paper accepeted at ACL 2023!
 - January 2023: Two papers accepted at EACL 2023!
 - Octobre 2022: One paper accepted at EMNLP 2022 and one accepted at AACL 2022!
 - Octobre 2021: Won an **outstanding paper award** at AKBC! 🎉🎉  
