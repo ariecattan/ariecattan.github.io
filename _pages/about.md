@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 I am a third-year PhD student in Natural Language Pocessing at the [NLP lab](https://biu-nlp.github.io/) of Bar Ilan University, supervised by Prof. [Ido Dagan](https://u.cs.biu.ac.il/~dagan/). 
-My research focuses on identifying relations across multiple documents.
-In Fall 2020, I interned at AI2 in the Semantic Scholar group, mentored by [Tom Hope](https://tomhoper.github.io/) and [Doug Downey](https://users.cs.northwestern.edu/~ddowney/). 
+My research focuses on identifying relations across multiple documents. I previously interned at IBM Research mentored by Roy Bar-Haim, and at AI2 in the Semantic scholar group mentored by [Tom Hope](https://tomhoper.github.io/) and [Doug Downey](https://users.cs.northwestern.edu/~ddowney/).
 
 Prior to that, I complete my M.Sc of Computer Science at Bar-Ilan university in 2020. My M.Sc thesis was on Cross-document Coreference Resolution, under the supervision of Prof. [Ido Dagan](https://u.cs.biu.ac.il/~dagan/). I did my B.Sc at the Jerusalem College of Technology (JCT) in 2016.
 
@@ -19,6 +18,7 @@ Prior to that, I complete my M.Sc of Computer Science at Bar-Ilan university in 
 
 
 **News:** 
+- October 2023: One paper accepted at EMNLP 2023!
 - May 2023: One paper accepeted at ACL 2023!
 - January 2023: Two papers accepted at EACL 2023!
 - Octobre 2022: One paper accepted at EMNLP 2022 and one accepted at AACL 2022!

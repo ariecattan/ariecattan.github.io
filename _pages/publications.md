@@ -17,6 +17,12 @@ author_profile: true
 
 # 2023 
 
+**CHAMP: Efficient Annotation and Consolidation of Cluster Hierarchies**  
+_<ins>Arie Cattan</ins>, Tom Hope, Doug Downey, Roy Bar-Haim, Lilach Eden, Yoav Kantor and Ido Dagan_   
+EMNLP 2023 (System demonstration).  
+[Paper](https://arxiv.org/pdf/2311.11301.pdf) &nbsp; [Code](https://github.com/ariecattan/champ)  
+
+
 **From Key Points to Key Point Hierarchy: Structured and Expressive Opinion Summarization**  
 _*<ins>Arie Cattan</ins>, *Lilach Eden, Yoav Kantor and Roy Bar-Haim_    
 ACL 2023.   
@@ -36,7 +42,7 @@ EACL 2023.
 
 **F-coref: Fast, Accurate and Easy to Use Coreference Resolution**    
 _Shon Otmazgin, <ins>Arie Cattan</ins> and Yoav Goldberg_   
-AACL 2022 (system demonstration)    
+AACL 2022 (System demonstration)    
 [Paper](https://arxiv.org/pdf/2209.04280.pdf) &nbsp; [Code](https://github.com/shon-otmazgin/fastcoref)
 
 **How "Multi" is Multi-Document Summarization?**     
