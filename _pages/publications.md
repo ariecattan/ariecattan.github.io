@@ -18,7 +18,7 @@ author_profile: true
 # 2024
 
 **SEAM: A Stochastic Benchmark for Multi-Document Tasks**  
-_Gili Lior, *Avi Caciularu, *<ins>Arie Cattan</ins>, Shahar Levy, Ori Shapira and Gabriel Stanovsky_  
+_Gili Lior, *Avi Caciularu, *<ins>Arie Cattan</ins>, *Shahar Levy, *Ori Shapira and Gabriel Stanovsky_  
 [Paper](https://arxiv.org/pdf/2406.16086) &nbsp; [Website](https://seam-benchmark.github.io/) &nbsp; [Code](https://github.com/seam-benchmark/SEAM)
 
 **Can Few-shot Work in Long-Context? Recycling the Context to Generate Demonstrations**  
