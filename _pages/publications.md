@@ -15,6 +15,23 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+# 2024
+
+**SEAM: A Stochastic Benchmark for Multi-Document Tasks**  
+_Gili Lior, *Avi Caciularu, *<ins>Arie Cattan</ins>, Shahar Levy, Ori Shapira and Gabriel Stanovsky_  
+[Paper](https://arxiv.org/pdf/2406.16086) &nbsp; [Website](https://seam-benchmark.github.io/) &nbsp; [Code](https://github.com/seam-benchmark/SEAM)
+
+**Can Few-shot Work in Long-Context? Recycling the Context to Generate Demonstrations**  
+_<ins>Arie Cattan</ins>, Alon Jacovi, Alex Fabrikant, Jonathan Herzig, Roee Aharoni, Hannah Rashkin, Dror Marcus, Avinatan Hassidim, Yossi Matias, Idan Szpektor and Avi Caciularu_  
+[Paper](https://arxiv.org/pdf/2406.13632)
+
+
+**Attribute First, then Generate: Locally-attributable Grounded Text Generation**   
+_*Aviv Slobodkin, *Eran Hirsch, <ins>Arie Cattan</ins>, Tal Schuster and Ido Dagan_  
+ACL 2024.  
+[Paper](https://arxiv.org/pdf/2403.17104) &nbsp; [Code](https://github.com/lovodkin93/attribute-first-then-generate)
+
+
 # 2023 
 
 **CHAMP: Efficient Annotation and Consolidation of Cluster Hierarchies**  
