@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in Natural Language Pocessing at the [NLP lab](https://biu-nlp.github.io/) of Bar Ilan University, supervised by Prof. [Ido Dagan](https://u.cs.biu.ac.il/~dagan/). 
+I am a fourth-year PhD student in Natural Language Pocessing at the [NLP lab](https://biu-nlp.github.io/) of Bar Ilan University, supervised by Prof. [Ido Dagan](https://u.cs.biu.ac.il/~dagan/). 
 My research focuses on identifying relations across multiple documents. I previously interned at IBM Research mentored by Roy Bar-Haim, and at AI2 in the Semantic scholar group mentored by [Tom Hope](https://tomhoper.github.io/) and [Doug Downey](https://users.cs.northwestern.edu/~ddowney/).
 
 Prior to that, I complete my M.Sc of Computer Science at Bar-Ilan university in 2020. My M.Sc thesis was on Cross-document Coreference Resolution, under the supervision of Prof. [Ido Dagan](https://u.cs.biu.ac.il/~dagan/). I did my B.Sc at the Jerusalem College of Technology (JCT) in 2016.

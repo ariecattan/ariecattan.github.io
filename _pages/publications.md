@@ -17,6 +17,7 @@ author_profile: true
 
 # 2024
 
+
 **SEAM: A Stochastic Benchmark for Multi-Document Tasks**  
 _Gili Lior, *Avi Caciularu, *<ins>Arie Cattan</ins>, *Shahar Levy, *Ori Shapira and Gabriel Stanovsky_  
 [Paper](https://arxiv.org/pdf/2406.16086) &nbsp; [Website](https://seam-benchmark.github.io/) &nbsp; [Code](https://github.com/seam-benchmark/SEAM)
@@ -24,6 +25,11 @@ _Gili Lior, *Avi Caciularu, *<ins>Arie Cattan</ins>, *Shahar Levy, *Ori Shapira 
 **Can Few-shot Work in Long-Context? Recycling the Context to Generate Demonstrations**  
 _<ins>Arie Cattan</ins>, Alon Jacovi, Alex Fabrikant, Jonathan Herzig, Roee Aharoni, Hannah Rashkin, Dror Marcus, Avinatan Hassidim, Yossi Matias, Idan Szpektor and Avi Caciularu_  
 [Paper](https://arxiv.org/pdf/2406.13632)
+
+**Explicating the Implicit: Argument Detection Beyond Sentence Boundaries**   
+_Paul Roit, Aviv Slobodkin, Eran Hirsch, <ins>Arie Cattan</ins>, Ayal Klein, Valentina Pyatkin and Ido Dagan_    
+ACL 2024.    
+[Paper](https://www.arxiv.org/pdf/2408.04246)
 
 
 **Attribute First, then Generate: Locally-attributable Grounded Text Generation**   
