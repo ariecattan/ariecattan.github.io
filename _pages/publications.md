@@ -17,6 +17,9 @@ author_profile: true
 
 # 2024
 
+**Localizing Factual Inconsistencies in Attributable Text Generation**  
+_<ins>Arie Cattan</ins>, Paul Roit, Shiyue Zhang, David Wan, Roee Aharoni, Idan Szpektor, Mohit Bansal and Ido Dagan._  
+[Paper](https://arxiv.org/abs/2410.07473) &nbsp; [Code](https://github.com/ariecattan/qasem_consistency)
 
 **SEAM: A Stochastic Benchmark for Multi-Document Tasks**  
 _Gili Lior, *Avi Caciularu, *<ins>Arie Cattan</ins>, *Shahar Levy, *Ori Shapira and Gabriel Stanovsky_  
